@@ -9,6 +9,6 @@ Artificial intelligence for biomedicine workshop at the Future of Synthetic Biol
 * [Jupyter Notebook](https://github.com/ayushnoori/ai-biomedicine-workshop/blob/main/breast_cancer_tutorial.ipynb)
 * [Google Colab Notebook](https://colab.research.google.com/drive/1zK1B0lkc8tXseROrCgnvDsmHmvvl_v6x?usp=sharing)
 
-2. Diabetes Classification
+2. Diabetes Progression Prediction
 * [Jupyter Notebook](https://github.com/ayushnoori/ai-biomedicine-workshop/blob/main/diabetes_tutorial.ipynb)
 * [Google Colab Notebook](https://colab.research.google.com/drive/1dWmjVWdaqO1drM_-jJEuO2_MSi5Db2q6?usp=sharing)
